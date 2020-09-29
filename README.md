@@ -1,2 +1,2 @@
 # Digital-lock
-A digital clock implemented by Verilog
+A digital lock implemented by Verilog
