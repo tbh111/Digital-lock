@@ -11,4 +11,5 @@ The final design and debug is on the Ego-1 board. The lock has VGA dispaly, 4*4 
 
 ## Final Exam
 The exam of this course is to implement a three person voting system(not just Q=AB+AC+BC+ABC), the detailed information is listed in following image.
+
 ![](https://github.com/tbh111/Digital-lock/blob/master/exam.jpg)
