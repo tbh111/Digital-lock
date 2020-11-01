@@ -8,3 +8,6 @@ The lock has LCD1602 display, 4*4 keyboard, but the for the input mode it has so
 
 ## On Ego-1
 The final design and debug is on the Ego-1 board. The lock has VGA dispaly, 4*4 keyboard, LED&7-segment on board and buzz output.
+
+## Final Exam
+The exam of this course is to implement a three person voting system(not just Q=AB+AC+BC+ABC), the detailed information is listed in following image.
